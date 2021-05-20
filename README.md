@@ -1,6 +1,6 @@
 # Back-end_BD
 
-#Start guide:
--run npm i
--npm run db
--node .
+<b>#Start guide:</b> <br>
+-run npm i <br>
+-npm run db <br>
+-node . <br>
